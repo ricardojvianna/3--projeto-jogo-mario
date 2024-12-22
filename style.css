@@ -75,8 +75,12 @@ button {
     position: absolute;
     bottom: 0;
     width: 120px;
-    animation: mario 500ms infinite ease-out;
+    /* animation: mario 500ms infinite ease-out; */
 
+}
+
+.jump {
+    animation: mario 500ms ease-out;
 }
 
 .pipe {
